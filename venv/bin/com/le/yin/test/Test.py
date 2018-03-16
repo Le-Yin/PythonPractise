@@ -62,6 +62,9 @@ lotsofhello = "hello" * 10
 print(lotsofhello)
 
 
+
+
+
 even_number = [2,4,6,8]
 odd_number = [1,3,5,7]
 all_numbers = even_number + odd_number
